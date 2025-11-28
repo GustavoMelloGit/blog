@@ -1,19 +1,41 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: 'Sêneca - Sobre o Ócio, Clemência & da Providência'
+excerpt: 'Minha visão, capítulo por capítulo sobre a obra de Sêneca.'
+coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+date: '2025-11-28T19:54:00.000Z'
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Gustavo Mello
+  picture: '/assets/blog/authors/gmello.jpeg'
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+# Da Providência
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Nesse capítulo, Sêneca trata muito sobre a relação dos humanos com o seu Deus. Principalmente voltado para a relação do homem com o sofrimento, junto com sua principal indagação:
 
-## Lorem Ipsum
+> _"Por que Deus permite o sofrimento aos homens bons?"_
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Para Sêneca, o sofrimento dos homens são na verdade dádivas, pois é somente por meio do sofrimento e da superação que os homens se aproximam da **virtude**.
+
+Nesse capítulo ele traz diversos exemplos para provar o seu ponto, glorificando principalmente a coragem, virtude e resiliência dos homens, em que, para ele, só é possível alcançar essas qualidades por meio do sofrimento.
+
+Um ponto interessante que ele trás sobre a visão dele é que Deus na verdade não pune os homens bons, pois de acordo com ele, esses são livres de pensamentos audaciosos, planos gananciosos, desejos cegos e cobiça pelo bem do próximo. As demais ocasiões da vida, como a morte de um ente querido, uma doença ou até mesmo a punição e vexame público são apenas oportunidades para o fortalecimento próprio e uma oportunidade para se aproximar da virtude.
+
+Sobre o fortalecimento próprio, Sêneca faz uma relação com pessoas ruins que são repletas de luxúria e poder. São pessoas que vivem em um conforto constante, onde suas casas possuem aquecimento, roupas de extrema qualidade, comida abundante e diversas outras coisas que são vistas pelas pessoas como dádivas. Porém, por conta de todo esse conforto, uma brisa, por menor que seja, é capaz de afetar grandemente os homens ruins, pois os mesmos não possuem resiliência e são incapazes de alcançarem a verdadeira virtude. Para o autor, são pessoas punidas por Deus, pois os mesmos vivem de aparências, mas as suas vidas possuem apenas uma fina camada de verniz para protegê-los, e em sua grande maioria possuem diversos problemas ainda mais graves atrás dessa fina proteção.
+
+Vejo uma semelhança muito grande entre o Deus citado por Sêneca com o Deus cristão. Inclusive, diversos dos exemplos que são expostos no livro, poderiam facilmente ser encontrados na bíblia. Exemplo:
+
+> _"[...] Por que Deus aflige os melhores homens com doença, tristeza ou outros problemas? Porque no exército as tarefas mais perigosas são atribuídas aos soldados mais bravos: um general envia suas tropas mais singulates para atacar o inimigo em uma emboscada noturna, para reconhecer sua linha de marcha ou para expulsar as guarnições hostis de suas fortalezas. Nenhum desses homens fiz ao iniciar sua jornada: 'O general tem sido duro comigo', mas 'Ele julgou bem de mim'."_
+
+---
+
+# Sobre a Clemência
+
+## Primeiro Livro
+
+## Segundo Livro
+
+---
+
+# Sobre o Ócio
