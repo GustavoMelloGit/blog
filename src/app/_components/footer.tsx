@@ -10,10 +10,18 @@ export function Footer() {
             Blog.
           </h3>
           <div className='flex gap-4 justify-center items-center lg:gap-6 lg:pl-4 lg:w-1/2'>
-            <a href='https://www.linkedin.com/in/gustavo-marques-mello/'>
+            <a
+              href='https://www.linkedin.com/in/gustavo-marques-mello/'
+              target='_blank'
+              aria-label='Go to my Linkedin Profile'
+            >
               <Linkedin />
             </a>
-            <a href={`https://github.com/GustavoMelloGit/blog`}>
+            <a
+              href={`https://github.com/GustavoMelloGit/blog`}
+              target='_blank'
+              aria-label='Go to my Github Profile'
+            >
               <Github />
             </a>
           </div>
