@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-# Da Providência
+## Da Providência
 
 Nesse capítulo, Sêneca trata muito sobre a relação dos humanos com o seu Deus. Principalmente voltado para a relação do homem com o sofrimento, junto com sua principal indagação:
 
@@ -30,12 +30,12 @@ Vejo uma semelhança muito grande entre o Deus citado por Sêneca com o Deus cri
 
 ---
 
-# Sobre a Clemência
+## Sobre a Clemência
 
-## Primeiro Livro
+### Primeiro Livro
 
-## Segundo Livro
+### Segundo Livro
 
 ---
 
-# Sobre o Ócio
+## Sobre o Ócio
