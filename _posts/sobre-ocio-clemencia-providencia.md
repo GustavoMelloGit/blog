@@ -1,5 +1,5 @@
 ---
-title: 'Sêneca - Sobre o Ócio, Clemência & da Providência'
+title: '[PT] Sêneca - Sobre o Ócio, Clemência & da Providência'
 excerpt: 'Minha visão, capítulo por capítulo sobre a obra de Sêneca.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2025-11-28T19:54:00.000Z'
@@ -28,14 +28,10 @@ Vejo uma semelhança muito grande entre o Deus citado por Sêneca com o Deus cri
 
 > _"[...] Por que Deus aflige os melhores homens com doença, tristeza ou outros problemas? Porque no exército as tarefas mais perigosas são atribuídas aos soldados mais bravos: um general envia suas tropas mais singulates para atacar o inimigo em uma emboscada noturna, para reconhecer sua linha de marcha ou para expulsar as guarnições hostis de suas fortalezas. Nenhum desses homens fiz ao iniciar sua jornada: 'O general tem sido duro comigo', mas 'Ele julgou bem de mim'."_
 
----
-
 ## Sobre a Clemência
 
 ### Primeiro Livro
 
 ### Segundo Livro
-
----
 
 ## Sobre o Ócio

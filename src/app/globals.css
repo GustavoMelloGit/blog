@@ -1,12 +1,14 @@
-@import "tailwindcss";
+@import 'tailwindcss';
 
-@theme {
+@theme inline {
   /* Colors */
-  --color-accent-1: #FAFAFA;
-  --color-accent-2: #EAEAEA;
+  --color-accent-1: #fafafa;
+  --color-accent-2: #eaeaea;
   --color-accent-7: #333;
   --color-success: #0070f3;
-  --color-cyan: #79FFE1;
+  --color-cyan: #79ffe1;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
 
   /* Spacing */
   --spacing-28: 7rem;
@@ -23,4 +25,20 @@
   /* Box Shadows */
   --shadow-sm: 0 5px 10px rgba(0, 0, 0, 0.12);
   --shadow-md: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+:root {
+  --background: #000;
+  --foreground: #fff;
+}
+
+.dark {
+  --background: #000;
+  --foreground: #fff;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground;
+  }
 }
