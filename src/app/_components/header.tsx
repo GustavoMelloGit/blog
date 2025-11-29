@@ -7,7 +7,7 @@ import { ThemeSwitcher } from './theme-switcher';
 const Header = () => {
   return (
     <div className='mb-20 mt-8 flex items-center justify-between'>
-      <div className='flex items-end gap-2'>
+      <div className='flex items-start md:items-end flex-col md:flex-row md:gap-2'>
         <h2 className='text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight'>
           <Link href='/' className='hover:underline'>
             Blog
