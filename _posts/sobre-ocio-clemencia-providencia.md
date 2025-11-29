@@ -1,6 +1,6 @@
 ---
 title: '[PT] Sêneca - Sobre o Ócio, Clemência & da Providência'
-excerpt: 'Minha visão, capítulo por capítulo sobre a obra de Sêneca.'
+excerpt: 'Minha visão, capítulo por capítulo, sobre a obra de Sêneca.'
 coverImage: '/assets/blog/covers/cover_1.webp'
 date: '2025-11-28T19:54:00.000Z'
 author:
