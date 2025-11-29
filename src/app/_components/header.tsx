@@ -1,13 +1,24 @@
+'use client';
+
 import Link from 'next/link';
+import { LanguageSwitcher } from './language-switcher';
 
 const Header = () => {
   return (
-    <h2 className='text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-20 mt-8 flex items-center'>
-      <Link href='/' className='hover:underline'>
-        Blog
-      </Link>
-      .
-    </h2>
+    <div className='mb-20 mt-8 flex items-center justify-between'>
+      <div className='flex items-end gap-2'>
+        <h2 className='text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight'>
+          <Link href='/' className='hover:underline'>
+            Blog
+          </Link>
+          .
+        </h2>
+        <h4 className='text-md leading-9 italic text-foreground/90'>
+          thoughts and learnings.
+        </h4>
+      </div>
+      <LanguageSwitcher />
+    </div>
   );
 };
 

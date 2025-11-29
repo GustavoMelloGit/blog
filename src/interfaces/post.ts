@@ -12,4 +12,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
+  language?: 'pt' | 'en';
 };

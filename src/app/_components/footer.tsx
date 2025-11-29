@@ -14,6 +14,7 @@ export function Footer() {
               href='https://www.linkedin.com/in/gustavo-marques-mello/'
               target='_blank'
               aria-label='Go to my Linkedin Profile'
+              rel='noreferrer'
             >
               <Linkedin />
             </a>
@@ -21,6 +22,7 @@ export function Footer() {
               href={`https://github.com/GustavoMelloGit/blog`}
               target='_blank'
               aria-label='Go to my Github Profile'
+              rel='noreferrer'
             >
               <Github />
             </a>

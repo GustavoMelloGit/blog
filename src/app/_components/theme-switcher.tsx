@@ -102,6 +102,8 @@ const Script = memo(() => (
   />
 ));
 
+Script.displayName = 'Script';
+
 /**
  * This component applies classes and transitions.
  */

@@ -1,29 +1,40 @@
+import { Suspense } from 'react';
 import Container from '@/app/_components/container';
-import { HeroPost } from '@/app/_components/hero-post';
-import { Intro } from '@/app/_components/intro';
-import { MoreStories } from '@/app/_components/more-stories';
+import Header from '@/app/_components/header';
+import { PostsList } from '@/app/_components/posts-list';
 import { getAllPosts } from '@/lib/api';
 
-export default function Index() {
-  const allPosts = getAllPosts();
+type SearchParams = {
+  lang?: string;
+};
 
-  const heroPost = allPosts[0];
+type Props = {
+  searchParams: Promise<SearchParams>;
+};
 
-  const morePosts = allPosts.slice(1);
+export default async function Index(props: Props) {
+  const searchParams = await props.searchParams;
+  const language = (searchParams.lang === 'en' ? 'en' : 'pt') as 'pt' | 'en';
+  const filteredPosts = getAllPosts(language);
 
   return (
     <main>
       <Container>
-        <Intro />
-        <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
-        />
-        {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        <Suspense
+          fallback={
+            <div className='mb-20 mt-8 flex items-center justify-between'>
+              <h2 className='text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight'>
+                Blog.
+              </h2>
+              <div className='px-3 py-1.5 text-sm font-medium bg-background border border-foreground/20 rounded-md'>
+                PT
+              </div>
+            </div>
+          }
+        >
+          <Header />
+        </Suspense>
+        <PostsList posts={filteredPosts} />
       </Container>
     </main>
   );

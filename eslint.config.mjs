@@ -3,6 +3,8 @@ import typescript from '@typescript-eslint/eslint-plugin';
 import typescriptParser from '@typescript-eslint/parser';
 import prettier from 'eslint-plugin-prettier';
 import prettierConfig from 'eslint-config-prettier';
+import react from 'eslint-plugin-react';
+import globals from 'globals';
 
 /** @type {import('eslint').Linter.Config[]} */
 const eslintConfig = [
@@ -19,28 +21,21 @@ const eslintConfig = [
         },
       },
       globals: {
+        ...globals.browser,
+        ...globals.node,
         React: 'readonly',
-        document: 'readonly',
-        window: 'readonly',
-        getComputedStyle: 'readonly',
-        setTimeout: 'readonly',
-        clearTimeout: 'readonly',
-        matchMedia: 'readonly',
-        localStorage: 'readonly',
-        sessionStorage: 'readonly',
-        addEventListener: 'readonly',
-        removeEventListener: 'readonly',
-        StorageEvent: 'readonly',
-        process: 'readonly',
+        JSX: 'readonly',
       },
     },
     plugins: {
       '@typescript-eslint': typescript,
       prettier: prettier,
+      react,
     },
     rules: {
       ...typescript.configs.recommended.rules,
       ...prettierConfig.rules,
+      ...react.configs.recommended.rules,
       'prettier/prettier': 'warn',
       '@typescript-eslint/no-unused-vars': [
         'error',
@@ -50,7 +45,6 @@ const eslintConfig = [
         },
       ],
       '@typescript-eslint/no-explicit-any': 'warn',
-      // Next.js specific rules
       'react/react-in-jsx-scope': 'off',
       'react/prop-types': 'off',
     },
