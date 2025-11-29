@@ -1,5 +1,5 @@
 ---
-title: '[PT] O Programador Pragmático'
+title: 'O Programador Pragmático'
 excerpt: 'Aprendizados extraídos do livro "The Pragmatic Programmer".'
 coverImage: '/assets/blog/covers/cover_2.webp'
 date: '2025-11-06T19:54:00.000Z'

@@ -1,5 +1,5 @@
 ---
-title: '[EN] The Pragmatic Programmer'
+title: 'The Pragmatic Programmer'
 excerpt: 'Learnings extracted from the book "The Pragmatic Programmer".'
 coverImage: '/assets/blog/covers/cover_2.webp'
 date: '2025-11-06T19:54:00.000Z'
