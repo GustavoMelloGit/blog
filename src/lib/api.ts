@@ -1,3 +1,4 @@
+import { Language } from '@/contexts/language-context';
 import { Post } from '@/interfaces/post';
 import fs from 'fs';
 import matter from 'gray-matter';
@@ -23,7 +24,7 @@ export function getPostBySlug(slug: string): Post {
  * @param language - Idioma para filtrar os posts ('pt' | 'en'). Se não fornecido, retorna todos.
  * @returns Array de posts ordenados por data (mais recente primeiro)
  */
-export function getAllPosts(language?: 'pt' | 'en'): Post[] {
+export function getAllPosts(language?: Language): Post[] {
   const slugs = getPostSlugs();
   const posts = slugs
     .map((slug) => getPostBySlug(slug))

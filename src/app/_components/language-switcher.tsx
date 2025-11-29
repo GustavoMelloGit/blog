@@ -12,8 +12,7 @@ import {
 } from './ui/dropdown-menu';
 import { Button } from './ui/button';
 import { Languages } from 'lucide-react';
-
-type Language = 'pt' | 'en';
+import { Language } from '@/contexts/language-context';
 
 const title: Record<Language, string> = {
   pt: 'Selecionar Idioma',

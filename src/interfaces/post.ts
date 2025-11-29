@@ -1,3 +1,4 @@
+import { Language } from '@/contexts/language-context';
 import { type Author } from './author';
 
 export type Post = {
@@ -12,5 +13,5 @@ export type Post = {
   };
   content: string;
   preview?: boolean;
-  language?: 'pt' | 'en';
+  language?: Language;
 };
