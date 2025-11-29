@@ -33,6 +33,26 @@ Vejo uma semelhança muito grande entre o Deus citado por Sêneca com o Deus cri
 
 ### Primeiro Livro
 
+É um capítulo bem extenso, porém bem repetitivo nas ideias apresentadas. Aqui Sêneca apresenta sua visão de um príncipe / governante ideal.
+Para ele, a maior valor de um líder está na clemência, pois com isso ele consegue não só manter a ordem e a disciplina, mas também manter a lealdade dos seus súditos.
+A lealdade dos súditos não vêm por medo de serem punidos, mas por amor e respeito pelo seu líder, pois ele governa de forma justa e branda com todos,
+incluindo os seus inimigos.
+
+Consigo encontrar na fala de Sêneca semelhanças com o livro ["Meditações" de Marco Aurélio](https://pt.wikipedia.org/wiki/Medita%C3%A7%C3%B5es). De acordo com
+Marco Aurélio, a justiça é a maior virtude, pois de acordo com ele, é a única que não possui uma outra virtude oposta. Muito do que Sêneca fala sobre a clemência
+está diretamente relacionada com a justiça.
+
+De acordo com o autor, um líder justo não somente é adorado pelo povo e por seus súditos, mas também é respeitado por seus inimigos. Além disso,
+ele é capaz de viver em segurança e tranquilidade, pois diferente dos líderes que não possuem essa virtude vivem constantemente com o medo da traição.
+
+Nesse capítulo ele volta a retratar a diferença entre homens bons e ruins, utilizando dos mesmos exemplos apresentados no capítulo anterior. Porém
+dessa vez com uma visão focada nos governantes. Isso se deve ao fato de que esse capítulo foi um livro escrito para Nero César, um príncipe
+que Sêneca aparenta gostar muito. Embora em minhas pesquisas, Nero César não foi visto como um bom líder. Como dito nessa página da [Wikipédia](https://pt.wikipedia.org/wiki/Nero)
+
+> _"Poucas das fontes antigas que sobreviveram o descrevem dum modo favorável"_
+
+Foi um bom capítulo, porém muito repetitivo nas ideias apresentadas. Talvez a ideia de Sêneca era reforçar a importância da clemência para um líder para Nero César.
+
 ### Segundo Livro
 
 ## Sobre o Ócio
