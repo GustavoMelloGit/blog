@@ -49,11 +49,13 @@ meus sentimentos sobre aquilo.
 e objetiva do porquê está fazendo e, acima de tudo, expresse essa certeza no código.**
 
 Automatizar tudo que for possivel, esse mantra se repete em diversos momentos do livro. Vivemos em
-um mundo digital, somos programadores e podemos construir o que quisermos. Os computadores seguem uma
-fila precisa de execuções em que nós definimos e eles são especialistas em segui-las. Diferentemente de
-um ser humano, em que uma receita de bolo apresentada para 100 pessoas irão resultar em 100 bolos
-completamente diferentes uns dos outros, pra um computador isso é quase impossível. Devemos
-ser capazes de utilizar essa excelente previsibilidade dos computadores para garantir que etapas
+um mundo digital, somos programadores e podemos construir o que quisermos.
+
+Os computadores seguem uma fila precisa de execuções em que nós definimos e eles são especialistas em
+segui-las. Diferentemente de um ser humano, em que uma receita de bolo apresentada para 100 pessoas
+irão resultar em 100 bolos completamente diferentes uns dos outros, pra um computador isso é impossível.
+
+Devemos ser capazes de utilizar essa excelente previsibilidade dos computadores para garantir que etapas
 essenciais do nosso dia a dia sejam feitas sempre com a perfeita precisão de como esperamos que
 ela ocorra.
 
