@@ -4,6 +4,7 @@ import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 
 import './globals.css';
+import { ThemeScript } from './_components/theme-switcher';
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -56,6 +57,7 @@ export default function RootLayout({
         <link rel='alternate' type='application/rss+xml' href='/feed.xml' />
       </head>
       <body className={inter.className}>
+        <ThemeScript />
         <div className='min-h-screen'>{children}</div>
         <Footer />
       </body>
