@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { LanguageSwitcher } from './language-switcher';
+import { ThemeSwitcher } from './theme-switcher';
 
 const Header = () => {
   return (
@@ -17,7 +18,10 @@ const Header = () => {
           thoughts and learnings.
         </h4>
       </div>
-      <LanguageSwitcher />
+      <div className='flex items-center gap-4'>
+        <LanguageSwitcher />
+        <ThemeSwitcher />
+      </div>
     </div>
   );
 };
