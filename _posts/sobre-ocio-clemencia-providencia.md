@@ -33,7 +33,7 @@ Vejo uma semelhança muito grande entre o Deus citado por Sêneca com o Deus cri
 
 ### Primeiro Livro
 
-É um capítulo bem extenso, porém bem repetitivo nas ideias apresentadas. Aqui Sêneca apresenta sua visão de um príncipe / governante ideal.
+Aqui Sêneca apresenta sua visão de um príncipe / governante ideal.
 Para ele, a maior valor de um líder está na clemência, pois com isso ele consegue não só manter a ordem e a disciplina, mas também manter a lealdade dos seus súditos.
 A lealdade dos súditos não vêm por medo de serem punidos, mas por amor e respeito pelo seu líder, pois ele governa de forma justa e branda com todos,
 incluindo os seus inimigos.
@@ -51,7 +51,7 @@ que Sêneca aparenta gostar muito. Embora em minhas pesquisas, Nero César não 
 
 > _"Poucas das fontes antigas que sobreviveram o descrevem dum modo favorável"_
 
-Foi um bom capítulo, porém muito repetitivo nas ideias apresentadas. Talvez a ideia de Sêneca era reforçar a importância da clemência para um líder para Nero César.
+Foi um bom capítulo, porém muito repetitivo nos conceitos apresentados. Talvez, Sêneca almejava reforçar a importância da clemência de um líder para Nero César.
 
 ### Segundo Livro
 
