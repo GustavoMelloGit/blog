@@ -9,8 +9,8 @@ import { ThemeScript } from './_components/theme-switcher';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: `Gustavo Mello's Blog`,
-  description: `A blog about my thoughts and experiences.`,
+  title: 'Blog.',
+  description: 'A blog about my thoughts and experiences.',
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
@@ -31,15 +31,15 @@ export default function RootLayout({
         />
         <link
           rel='icon'
-          type='image/png'
+          type='image/jpg'
           sizes='32x32'
-          href='/favicon/favicon-32x32.png'
+          href='/favicon/favicon-32x32.jpg'
         />
         <link
           rel='icon'
-          type='image/png'
+          type='image/jpg'
           sizes='16x16'
-          href='/favicon/favicon-16x16.png'
+          href='/favicon/favicon-16x16.jpg'
         />
         <link rel='manifest' href='/favicon/site.webmanifest' />
         <link
