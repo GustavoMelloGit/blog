@@ -55,4 +55,14 @@ Foi um bom capítulo, porém muito repetitivo nos conceitos apresentados. Talvez
 
 ### Segundo Livro
 
+Esse segundo livro é bem mais curto e, pelo que pesquisei, parece que a obra chegou até nós de forma incompleta. O que achei mais interessante aqui foi a diferença que Sêneca faz entre clemência e piedade. Para nós, hoje em dia, as duas coisas parecem quase iguais, mas para ele são bem diferentes.
+
+Para o autor, a clemência é você ser justo e perdoar usando a razão, pensando com clareza. Já a piedade (o sentimento de ter pena do outro), ele enxerga quase como um defeito. Ele argumenta que, quando você sente muita pena de alguém, acaba sofrendo junto, e essa emoção acaba atrapalhando o julgamento lógico. Ou seja, um bom líder deve sim ajudar os outros e perdoar, mas sempre de cabeça fria, sem deixar que o lado emocional tome o controle das decisões.
+
 ## Sobre o Ócio
+
+Nesse texto, Sêneca tenta quebrar aquela visão comum que temos da palavra "ócio". De acordo com ele, o ócio não significa preguiça, inércia ou não fazer nada, mas sim um momento para focar nos estudos e no próprio pensamento.
+
+Ele comenta que o ideal é que os homens bons participem da vida política para ajudar a sociedade. Porém, se o Estado estiver muito corrupto ou se a pessoa perceber que não tem como mudar as coisas, é totalmente justificável dar um passo para trás. É nessa hora que o homem vai para o ócio.
+
+Em vez de tentar consertar o que não tem mais jeito, o homem sábio se isola para estudar, ler e entender melhor o mundo e as virtudes. Para Sêneca, mesmo estando isolado da política, essa pessoa continua sendo útil para a sociedade através do conhecimento. Vejo isso como uma provável justificativa que o próprio autor usou para explicar por que ele mesmo decidiu se afastar de todas as confusões políticas da época em Roma.
